@@ -29,12 +29,12 @@ h1 {
 }
 
 h2, h3 {
-  color: #505050
+  color: #505050;
 }
 
 h2 {
   font-size: 150%;
-  margin: 0px
+  margin: 0px;
 }
 
 h3 {
@@ -45,4 +45,48 @@ main {
   margin: 20px, 20px, 20px; 30%;
   opacity: 0.9;
   background-image: ../img/ficepaper_v3.png;
+}
+
+header {
+  padding: 1em;
+  background-color: #FA5A0F;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+  border-bottom-color: #EA4A00;
+  color: #FFFFFF;
+}
+
+#head {
+  font-size: 120%;
+  color: #EEEEEE;
+  margin: 0;
+}
+
+section {
+  padding: 1em;
+}
+
+#menu {
+  background-color: rgba(207, 205, 140, 0.5);
+}
+
+#pie {
+  font-weight: 400;
+}
+
+#descript {
+  font-size: 80%;
+  font-style: italic;
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+footer {
+  padding: 1em;
+  background-color: #FC892F;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: #EC791F;
+  font-size: 80%;
+  text-align: right;
 }
