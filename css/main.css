@@ -5,7 +5,7 @@ body {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
   font-weight: 300;
-  background-image: url("file://C2/img/background.jpg");
+  background-image: url("../img/background.jpg");
   background-attachment: fixed;
   a:link, a:visited {
     text-decoration: none;
@@ -43,10 +43,12 @@ h3 {
 }
 
 main {
-  margin: 20px, 20px, 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
   margin-left: 30%;
   opacity: 0.9;
-  background-image: url("file://C2/img/ricepaper_v3.png");
+  background-image: url("../img/ricepaper_v3.png");
 }
 
 header {
@@ -96,5 +98,4 @@ footer {
 #copy {
   font-style: italic;
 }
-
 
