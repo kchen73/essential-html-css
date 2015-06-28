@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic);
 
 body {
@@ -26,7 +26,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: 300%;
-  margin: 0px;
+  margin: 0;
 }
 
 h2, h3 {
@@ -35,7 +35,7 @@ h2, h3 {
 
 h2 {
   font-size: 150%;
-  margin: 0px;
+  margin: 0;
 }
 
 h3 {
@@ -74,11 +74,11 @@ section {
   background-color: rgba(207, 205, 140, 0.5);
 }
 
-#pie {
+dt {
   font-weight: 400;
 }
 
-#descript {
+dd {
   font-size: 80%;
   font-style: italic;
   margin-left: 1em;
@@ -95,7 +95,4 @@ footer {
   text-align: right;
 }
 
-#copy {
-  font-style: italic;
-}
 
